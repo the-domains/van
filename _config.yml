@@ -1,0 +1,28 @@
+name: van
+favicon: null
+layout_spectrum: 0.6129826253745705
+typography_spectrum: 0.009041189914569259
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.03730223118327558
+  lightness: 0.38591507193632424
+  saturation: 0.968182971002534
+  rhythmicContrast: 0.21425038808956742
+purpose: []
