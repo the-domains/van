@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[van]]></title>
-        <description><![CDATA[van]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Van]]></title>
+        <description><![CDATA[Van]]></description>
+        <link>https://thegrid.ai/van/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 19:19:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 15 Mar 2016 20:14:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/van/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p> Life has no purpose other than the one(s) we create. Now that's fucking awesome.</p>]]></description>
-            <link>undefinedlife-has-no-purpose-other-than-the-ones-we-create-now-th/index.html</link>
+            <description><![CDATA[<p>I don't know if there's a god. I think the best we can say. We have no evidence of a god. And we haven't searched everywhere. So it's unknown. People automatically think of the unknown as something negative. We attempt to rationalize the unknown rather than spending time enjoying the known and being in awe of the unknown. I'd rather not know everything than attempt to create a non-evidence-based claim to explain what we don't know. NdT said that pretending to know everything closes the door to finding out what's really there.</p>]]></description>
+            <link>https://thegrid.ai/van/life-has-no-purpose-other-than-the-ones-we-create-now-th/index.html</link>
             <guid isPermaLink="false">6b116de0-1315-4dc1-8ad6-f937296bfb86</guid>
-            <pubDate>Tue, 15 Mar 2016 19:19:41 GMT</pubDate>
+            <pubDate>Tue, 15 Mar 2016 20:14:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
